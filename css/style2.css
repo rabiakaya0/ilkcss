@@ -1,0 +1,31 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #fb9e9e;
+}
+
+h1 {
+    font-size:20px;
+}
+
+#firtsarticle {
+    font-size: 10px;
+}
+
+.text-red {
+    color:red;
+}
+
+.text-mor {
+    color:rgb(143, 9, 121);
+}
+
+.fs-small {
+    font-size: 15px;
+}
+
+.fs-medium {
+    font-size: 30px;
+}
+
+.fs-large {
+    font-size: 45px;
+}
