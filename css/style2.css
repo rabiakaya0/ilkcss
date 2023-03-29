@@ -1,3 +1,41 @@
+/* css selectors w3schools */
+
+.colorblue.fwbold {
+    color: blue;
+    font-weight: bold;
+}
+
+.colorb .fwnormal {
+    color: blue;
+    font-weight: normal;
+}
+
+li:last-child {
+    color: blueviolet;
+}
+
+ ul> li:first-child {
+    color: blueviolet;
+ }
+
+ li:nth-child(even) {
+    background: pink;
+ }
+
+ li:nth-child(odd) {
+    background: blue;
+ }
+
+ li:nth-child(2) {
+    background: red;
+ }
+
+ li:nth-child(3n+1) {
+    background:violet;
+ }
+
+/* css selectors */
+
 h1, h2, h3, h4, h5, h6 {
     color: #fb9e9e;
 }
