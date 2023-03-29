@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.gradient {
+    background: linear-gradient(90deg, rgba(45,156,219,.6),rgba(155,81,224,.6));
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    /* shadow generator */
+    box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.44);
+    -webkit-box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.44);
+    /* css tricks */
+}
+.card {
+    width: 20%;
+    float: left;
+    padding: 5%;
+    background-color: burlywood;
+    margin-right: 3%;
+    border-radius: 3%;
+}
+
+.container {
+    margin-top: 50px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 50px auto 0;
+    width: 1000px;
+}
+
+.left-bar {
+    width: 200px;
+    float: left;
+}
+
+.content {
+    width: 800px;
+    float: left;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.box {
+    width: 200px; height: 200px;
+    padding: 10px;
+    /* margin: 10px; */
+    margin-right: 10px;
+    float: left;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
